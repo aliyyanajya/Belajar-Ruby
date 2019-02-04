@@ -1,3 +1,6 @@
-puts "Aliyya Najya Aurelia"
-print "Bunda"
-print "Ayah"
+Siswa = "Aliyya Najya"
+Orangtua = "Bunda"
+Orangtua2 = "Ayah"
+puts Siswa
+puts Orangtua
+puts Orangtua2
